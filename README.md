@@ -80,6 +80,7 @@ Clone the Repository
 bash
 Copy
 Edit
+git clone https://github.com/JeetPitale/ReWare.git
 git clone https://github.com/YashBachwani/ReWear.git
 cd ReWear
 Install Dependencies
